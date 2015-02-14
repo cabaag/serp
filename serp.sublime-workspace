@@ -1,0 +1,643 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pass",
+				"password_repeat"
+			],
+			[
+				"layo",
+				"layout"
+			],
+			[
+				"pas",
+				"password_repeat"
+			],
+			[
+				"C",
+				"CActiveRecord"
+			],
+			[
+				"proje",
+				"project_id"
+			],
+			[
+				"en",
+				"encode"
+			],
+			[
+				"iss",
+				"issueDataProvider"
+			],
+			[
+				"CActive",
+				"CActiveDataProvider"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"yend",
+				"yend	Yii::app()->end"
+			],
+			[
+				"project",
+				"projectId"
+			],
+			[
+				"STAT",
+				"STATUS_FINISHED"
+			],
+			[
+				"STA",
+				"STATUS_STARTED"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"TY",
+				"TYPE_TASK"
+			],
+			[
+				"type_",
+				"TYPE_FEATURE"
+			],
+			[
+				"TYPE_",
+				"TYPE_BUG"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "serp/__init__.py",
+			"settings":
+			{
+				"buffer_size": 74,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "serp/main.py",
+			"settings":
+			{
+				"buffer_size": 470,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Anaconda Python Builder",
+	"command_palette":
+	{
+		"height": 309.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"cactiver",
+				"Snippet: CActiveDataProvider"
+			],
+			[
+				"cativ",
+				"Snippet: CActiveDataProvider"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"ins	",
+				"Package Control: Install Package"
+			],
+			[
+				"hdd",
+				"Snippet: Yii CHtml::dropDownList"
+			],
+			[
+				"dropdo",
+				"Snippet: Yii CHtml::dropDownList"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"pac git",
+				"Package Control: Add Repository"
+			],
+			[
+				"packgit",
+				"Package Control: Add Repository"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"compo",
+				"Composer: Update"
+			],
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"show_panel",
+			"hide_menu",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/charly/Python/SERP",
+		"/home/charly/Python/SERP/serp",
+		"/home/charly/Python/SERP/serp/__pycache__",
+		"/home/charly/Python/SERP/serp/gui"
+	],
+	"file_history":
+	[
+		"/home/charly/Python/SERP/README.md",
+		"/home/charly/Python/SERP/serp/gui/Handlers.py",
+		"/home/charly/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/charly/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/charly/.config/sublime-text-3/Packages/SublimeLinter/Default (Linux).sublime-keymap",
+		"/home/charly/.config/sublime-text-3/Packages/User/CodeFormatter.sublime-settings",
+		"/home/charly/www/trackstar/css/form.css",
+		"/home/charly/www/trackstar/protected/views/user/_view.php",
+		"/home/charly/www/trackstar/protected/views/user/view.php",
+		"/home/charly/www/trackstar/protected/controllers/UserController.php",
+		"/home/charly/www/trackstar/protected/views/user/index.php",
+		"/home/charly/www/trackstar/protected/models/TrackStarActiveRecord.php",
+		"/home/charly/www/trackstar/protected/views/site/index.php",
+		"/home/charly/www/trackstar/protected/views/project/index.php",
+		"/home/charly/www/trackstar/protected/views/issue/index.php",
+		"/home/charly/www/trackstar/protected/views/project/_view.php",
+		"/home/charly/www/trackstar/protected/views/issue/_view.php",
+		"/home/charly/www/trackstar/protected/views/user/_form.php",
+		"/home/charly/www/trackstar/protected/views/project/view.php",
+		"/home/charly/www/trackstar/protected/views/issue/view.php",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.SafeIframeRegexp.txt",
+		"/home/charly/www/trackstar/protected/models/User.php",
+		"/home/charly/www/trackstar/protected/views/issue/_form.php",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/demos/blog/protected/views/comment/_form.php",
+		"/home/charly/www/trackstar/protected/views/project/_form.php",
+		"/home/charly/www/trackstar/protected/models/Issue.php",
+		"/home/charly/www/trackstar/protected/models/Project.php",
+		"/home/charly/www/trackstar/protected/controllers/IssueController.php",
+		"/home/charly/www/trackstar/protected/controllers/ProjectController.php",
+		"/home/charly/www/trackstar/protected/runtime/gii-1.1.16/ModelCode.php",
+		"/home/charly/www/trackstar/protected/runtime/gii-1.1.16/CrudCode.php",
+		"/home/charly/.config/autostart/thunderbird.desktop",
+		"/home/charly/.config/autostart/dropbox.desktop",
+		"/home/charly/.config/autostart/synapse.desktop",
+		"/usr/share/applications/netbeans-8.0.2.desktop",
+		"/home/charly/www/trackstar/protected/views/issue/create.php",
+		"/home/charly/www/trackstar/protected/views/issue/admin.php",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/docs/blog/portlet.comments.txt",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/logging/CLogRoute.php",
+		"/home/charly/www/trackstar/composer.json",
+		"/home/charly/www/trackstar/README.md",
+		"/home/charly/www/trackstar/index-test.php",
+		"/home/charly/www/trackstar/index.php",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/i18n/data/ig_ng.php",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/i18n/data/aa_dj.php",
+		"/home/charly/www/trackstar/vendor/autoload.php",
+		"/usr/java/jdk1.7.0_75/db/3RDPARTY",
+		"/home/charly/www/trackstar/protected/components/Controller.php",
+		"/home/charly/www/trackstar/protected/migrations/m150202_194523_create_issue_user_and_addigment_tables.php",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/i18n/data/it_sm.php",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/i18n/data/sid_et.php",
+		"/home/charly/www/trackstar/protected/tests/unit/DbTest.php",
+		"/home/charly/.config/sublime-text-3/Packages/User/Yii snippets/yii-CListView.sublime-snippet",
+		"/home/charly/.config/sublime-text-3/Packages/User/Yii snippets/yii-dropDownListForm.sublime-snippet",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/i18n/data/en_dm.php",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/i18n/data/id.php",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/gii/components/UserIdentity.php",
+		"/media/charly/04125ECC125EC27A/Users/Carlos/Desktop/Externo/Linux/Matlab/README.txt",
+		"/home/charly/Escritorio/Matlab/Crack/license_405329_R2014a.lic",
+		"/home/charly/Escritorio/Matlab/MATLAB R2014a Unix/install",
+		"/media/charly/04125ECC125EC27A/Users/Carlos/Desktop/Externo/Linux/Matlab/MATLAB R2014a Unix/install",
+		"/home/charly/.config/sublime-text-3/Packages/User/yii-listDataCHtml.sublime-snippet",
+		"/home/charly/www/trackstar/css/print.css",
+		"/home/charly/.config/sublime-text-3/Packages/User/Yii snippets/yii-end.sublime-snippet",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/tests/framework/web/helpers/CHtml/providerValue.php",
+		"/tmp/evince-3313/image.ZP3WTX.png",
+		"/home/charly/.cache/.fr-MxErSw/PhpDoc.sublime-completions",
+		"/home/charly/.cache/.fr-Z5Xte9/README.md",
+		"/home/charly/.zshrc",
+		"/home/charly/.bash_profile",
+		"/home/charly/.bashrc",
+		"/home/charly/.bash_aliases",
+		"/home/charly/.mysql_history",
+		"/home/charly/.pam_environment",
+		"/home/charly/.profile",
+		"/home/charly/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/i18n/data/en_ie.php",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/demos/blog/protected/components/UserMenu.php",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/i18n/data/mer.php",
+		"/home/charly/www/trackstar/protected/config/main.php",
+		"/home/charly/.config/sublime-text-3/Packages/User/Yii snippets/yii-form-dropdownlist.sublime-snippet",
+		"/home/charly/.cache/.fr-sdHhiU/yii-dropDownList.sublime-snippet",
+		"/usr/lib/texturepacker/qt.conf",
+		"/home/charly/oradiag_charly/scripts/Sin título New file.sql",
+		"/home/charly/oradiag_charly/scripts/con01.txt",
+		"/home/charly/www/trackstar/protected/migrations/m150201_045004_create_project_table.php",
+		"/home/charly/.config/chmsee/config",
+		"/home/charly/.config/zone/config.ini",
+		"/home/charly/.config/touchegg/touchegg.conf",
+		"/home/charly/.config/hotkeys/synapse.hotkeys",
+		"/home/charly/www/trackstar/protected/config/database.php",
+		"/home/charly/Python/SERP/ex/__init__.spec",
+		"/home/charly/.config/sublime-text-3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/home/charly/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/charly/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/charly/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/charly/www/trackstar/css/main.css",
+		"/home/charly/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/home/charly/.config/sublime-text-3/Packages/User/composer-sublime.sublime-settings",
+		"/home/charly/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/charly/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+		"/home/charly/.config/sublime-text-3/Packages/Composer/composer-sublime.sublime-settings",
+		"/home/charly/.config/sublime-text-3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/home/charly/main.py",
+		"/home/charly/.config/sublime-text-3/Packages/User/trailing_spaces.sublime-settings",
+		"/home/charly/.config/sublime-text-3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/i18n/data/tt_ru.php",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowTricky.txt",
+		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/gii/components/Pear/Text/Diff/Renderer/inline.php",
+		"/home/charly/www/trackstar/trackstar.sublime-project",
+		"/home/charly/www/info.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"builder",
+			"()\n",
+			"yii::a",
+			"username.php",
+			"filter",
+			"owner",
+			"owner_id",
+			"typeOption",
+			"statusOption",
+			"getStatusOption",
+			"getTypeOption",
+			"statusOptions",
+			"typeOptions",
+			"Only",
+			"postOn",
+			"menu",
+			"ctrĺ+h",
+			"auto",
+			"ctrl+space",
+			"dD",
+			"save",
+			"tab",
+			"/",
+			"comment"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"getStatusOptions",
+			"getTypeOptions"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "serp/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "serp/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 160.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "serp.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"_form",
+				"protected/views/user/_form.php"
+			],
+			[
+				"inde",
+				"protected/views/user/index.php"
+			],
+			[
+				"_view",
+				"protected/views/user/_view.php"
+			],
+			[
+				"view",
+				"protected/views/user/view.php"
+			],
+			[
+				"use",
+				"protected/models/User.php"
+			],
+			[
+				"_fo",
+				"protected/views/user/_form.php"
+			],
+			[
+				"porj",
+				"protected/controllers/ProjectController.php"
+			],
+			[
+				"crea",
+				"protected/views/issue/create.php"
+			],
+			[
+				"admin",
+				"protected/views/issue/admin.php"
+			],
+			[
+				"index",
+				"protected/views/issue/index.php"
+			],
+			[
+				"issucontro",
+				"protected/controllers/IssueController.php"
+			],
+			[
+				"issue",
+				"protected/models/Issue.php"
+			],
+			[
+				"issuview",
+				"protected/views/issue/view.php"
+			],
+			[
+				"projview",
+				"protected/views/project/_view.php"
+			],
+			[
+				"pro",
+				"protected/controllers/ProjectController.php"
+			],
+			[
+				"issform",
+				"protected/views/issue/_form.php"
+			],
+			[
+				"projec",
+				"protected/models/Project.php"
+			],
+			[
+				"proview",
+				"protected/views/project/view.php"
+			],
+			[
+				"issindex",
+				"protected/views/issue/index.php"
+			],
+			[
+				"issue/",
+				"protected/views/issue/_form.php"
+			],
+			[
+				"main",
+				"protected/config/main.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/www/trackstar/trackstar.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
