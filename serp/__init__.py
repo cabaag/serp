@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
-from main import MainWindow
+from gui.Builder import Builder
+from gi.repository import Gtk
 
-main = MainWindow()
+
+Builder()
+Gtk.main()

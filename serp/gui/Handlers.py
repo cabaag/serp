@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 
-from gi.repository import Gtk
-from .DialogNewFile import DialogNewFile
+from .Dialog import Dialog
 
 
 class Handlers():
-    def OnDeleteEvent(self, *args):
-        Gtk.main_quit(*args)
 
-    def onNewFile(self, button):
-        DialogNewFile()
+    def __init__(self, builder):
+        self.builder = builder
+
+    def onNewBase(self, button):
+        Dialog(self.builder, "dialogNewBase")

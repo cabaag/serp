@@ -1,18 +1,14 @@
 {
-	"build_systems":
-	[
-		{
-			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
-			"name": "Anaconda Python Builder",
-			"selector": "source.python",
-			"shell_cmd": "python -u \"$file\""
-		}
-	],
-	"folders":
-	[
-		{
-			"follow_symlinks": true,
-			"path": "."
-		}
-	]
+	"folders": [{
+		"follow_symlinks": true,
+		"path": "."
+	}],
+	"settings": {"tab_size":4,},
+	"build_systems": [{
+		"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+		"name": "Anaconda Python Builder",
+		// "selector": "source.python",
+		// "shell_cmd": "python -u \"$file\""
+		"shell_cmd": "python $project_path/serp/__init__.py"
+	}],
 }
