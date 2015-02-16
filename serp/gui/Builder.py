@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 
 from gi.repository import Gtk
-from .Handlers import Handlers
-from gui.MainWindow import MainWindow
-from classes.Base import Base
+from Handlers import Handlers
+from MainWindow import MainWindow
+import imp
+Base = imp.load_source('Base', '../classes/Base.py')
 
 
 class Builder(Gtk.Builder):
@@ -14,4 +15,5 @@ class Builder(Gtk.Builder):
         self.builder.add_from_file("main.glade")
         self.builder.connect_signals(Handlers(self.builder))
 
-        MainWindow(self.builder, Base())
+        self.base = Base.Base()
+        MainWindow(self, self.base)

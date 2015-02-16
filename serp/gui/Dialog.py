@@ -10,6 +10,7 @@ class Dialog(Gtk.Dialog):
 
         self = builder.get_object(nameWidget)
         self.__class__ = Dialog
+        self.builder = builder
 
         self.connect("response", self.handler_response)
         self.connect("close", self.hide_dialog)
@@ -22,7 +23,10 @@ class Dialog(Gtk.Dialog):
             self.hide_dialog(widget)
 
     def save_new_file(self):
-        print('Watch out!')
+        print self
 
     def hide_dialog(self, widget):
         self.hide()
+
+    def has_base(self):
+        return self.builder

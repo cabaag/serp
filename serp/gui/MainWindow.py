@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from gi.repository import Gtk
-from .Dialog import Dialog
+from Dialog import Dialog
 
 
 class MainWindow(Gtk.Window):
@@ -11,10 +11,10 @@ class MainWindow(Gtk.Window):
     def __init__(self, builder, base):
         super(MainWindow, self).__init__()
 
-        self = builder.get_object("WindowMain")
+        self = builder.builder.get_object("WindowMain")
         self.__class__ = MainWindow
         self.builder = builder
-        print(base)
+
         self.connect("destroy", self.on_destroy)
 
         self.show_all()
@@ -23,4 +23,5 @@ class MainWindow(Gtk.Window):
         Gtk.main_quit()
 
     def on_new_base(self, widget):
-        Dialog(self.builder, "dialogNewBase")
+        dialog = Dialog(self.builder, "dialogNewBase")
+        dialog.has_base()
