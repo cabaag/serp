@@ -1,28 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# from gui.Builder import Builder
-# from gi.repository import Gtk
 
-
-# class main():
-
-#     def __init__(self):
-#         Builder()
-
-
-# print("hi")
-# if __name__ == "__main__":
-#     print("hola")
-#     main = main()
-#     Gtk.main()
-
-
-from gui.mainwindow import Ui_MainWindow
 import sys
 from PyQt5 import QtWidgets
+from app.MainWindow import Ui_MainWindow
+
 
 if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)
-    ex = Ui_MainWindow()
-    ex.show()
+    main = Ui_MainWindow()
+    main.show()
     sys.exit(app.exec_())

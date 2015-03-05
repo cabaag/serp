@@ -4,9 +4,8 @@
 		{
 			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
 			"name": "Anaconda Python Builder",
-			// "selector": "source.python",
-			// "shell_cmd": "python -u \"$file\"",
-			"shell_cmd": "python $project_path/serp/__init__.py"
+			"selector": "source.python",
+			"shell_cmd": "python3 -u \"$file\""
 		}
 	],
 	"folders":
@@ -18,6 +17,9 @@
 	],
 	"settings":
 	{
-		"tab_size": 4
+		"tab_size": 4,
+		"translate_tabs_to_spaces": true,
+		"word_wrap": true,
+		"wrap_width": 80
 	}
 }

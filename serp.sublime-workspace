@@ -4,12 +4,228 @@
 		"selected_items":
 		[
 			[
-				"w",
-				"widget"
+				"mini",
+				"minimum_value"
+			],
+			[
+				"exe",
+				"except"
+			],
+			[
+				"Value",
+				"ValueError"
+			],
+			[
+				"max",
+				"maximum_value"
+			],
+			[
+				"_m",
+				"_minimum_value	statement"
+			],
+			[
+				"false",
+				"False	keyword"
+			],
+			[
+				"Val",
+				"ValueError	class"
+			],
+			[
+				"li",
+				"limite_superior"
+			],
+			[
+				"true",
+				"True	class"
+			],
+			[
+				"ex",
+				"ex	statement"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"lim",
+				"limite_superior"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"limi",
+				"limite_superior"
+			],
+			[
+				"Va",
+				"VariableNumerica"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"prop",
+				"property	New Property"
+			],
+			[
+				"Qd",
+				"QDataStream"
+			],
+			[
+				"arc",
+				"archivo"
+			],
+			[
+				"fin",
+				"findChild	function"
+			],
+			[
+				"base",
+				"baseSize	function"
+			],
+			[
+				"dia",
+				"dialogPreferences"
+			],
+			[
+				"Ui_",
+				"Ui_Dialog"
+			],
+			[
+				"D",
+				"DialogPreferences"
+			],
+			[
+				"Dialo",
+				"DialogPreferences	module"
+			],
+			[
+				"Mai",
+				"MainFrame	import"
+			],
+			[
+				"paren",
+				"parentWidget	function"
+			],
+			[
+				"setu",
+				"setupUi"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"des",
+				"descripcion	statement"
+			],
+			[
+				"class",
+				"classesLineEditNBDialog	statement"
+			],
+			[
+				"QW",
+				"QtWidgets"
+			],
+			[
+				"cre",
+				"createNewBase"
+			],
+			[
+				"tri",
+				"triggered	function"
+			],
+			[
+				"Ui",
+				"Ui_DialogNewBase	class"
+			],
+			[
+				"QDi",
+				"QDialog	class"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"Qt",
+				"QtWidgets"
+			],
+			[
+				"ini",
+				"__init__"
+			],
+			[
+				"Qwidg",
+				"QtWidget"
+			],
+			[
+				"set",
+				"setupUi"
+			],
+			[
+				"QtWidge",
+				"QtWidget"
+			],
+			[
+				"cli",
+				"clicked	function"
 			],
 			[
 				"__",
+				"__init__"
+			],
+			[
+				"_",
 				"__	__magic__"
+			],
+			[
+				"print",
+				"printText"
+			],
+			[
+				"di",
+				"dialog"
+			],
+			[
+				"sho",
+				"show_dialog"
+			],
+			[
+				"get",
+				"get_text"
+			],
+			[
+				"entry",
+				"entryNameNB"
+			],
+			[
+				"hi",
+				"hide"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"bu",
+				"builder"
+			],
+			[
+				"w",
+				"widget"
 			],
 			[
 				"pr",
@@ -26,10 +242,6 @@
 			[
 				"glob",
 				"globals	function"
-			],
-			[
-				"sho",
-				"show"
 			],
 			[
 				"destro",
@@ -56,10 +268,6 @@
 				"main_quit"
 			],
 			[
-				"dia",
-				"dialogNewBase"
-			],
-			[
 				"sup",
 				"super"
 			],
@@ -68,24 +276,12 @@
 				"dialogNewBase"
 			],
 			[
-				"Dialo",
-				"DialogNewBase"
-			],
-			[
 				"show",
 				"show_all"
 			],
 			[
-				"bu",
-				"button"
-			],
-			[
 				"M",
 				"MyWidget"
-			],
-			[
-				"D",
-				"DialogNewFile	class"
 			],
 			[
 				"supe",
@@ -114,10 +310,6 @@
 			[
 				"En",
 				"EntryMultiline"
-			],
-			[
-				"_",
-				"__init__"
 			],
 			[
 				"serp",
@@ -200,54 +392,52 @@
 	"buffers":
 	[
 		{
-			"file": "serp/gui/Builder.py",
+			"file": "serp/app/core/objeto.py",
 			"settings":
 			{
-				"buffer_size": 499,
+				"buffer_size": 738,
 				"line_ending": "Unix",
-				"name": "Builder.py"
+				"name": "objetos.py"
 			}
 		},
 		{
-			"file": "serp/gui/Handlers.py",
+			"file": "serp/app/core/variable.py",
 			"settings":
 			{
-				"buffer_size": 217,
+				"buffer_size": 2715,
+				"line_ending": "Unix",
+				"name": "variable.py"
+			}
+		},
+		{
+			"file": "/home/charly/Dropbox/RP/js/app/system/Variable.coffee",
+			"settings":
+			{
+				"buffer_size": 10752,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/charly/Dropbox/RP/js/app/system/Objeto.coffee",
+			"settings":
+			{
+				"buffer_size": 7772,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "serp/app/Base.py",
+			"settings":
+			{
+				"buffer_size": 920,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "# -*- coding: utf-8 -*-\n\nfrom gi.repository import Gtk\n\n\nclass Dialog(Gtk.Dialog):\n\n    def __init__(self, builder, nameWidget=None):\n        super(Dialog, self).__init__()\n\n        self = builder.get_object(nameWidget)\n        self.__class__ = Dialog\n        self.builder = builder\n\n        self.connect(\"response\", self.handler_response)\n        self.connect(\"close\", self.hide_dialog)\n        self.run()\n\n    def handler_response(self, widget, response, data=None):\n        if response == 1:  # Accept button\n            self.save_new_file()\n        elif response == 2:  # Cancel button\n            self.hide_dialog(widget)\n\n    def save_new_file(self):\n        base\n\n    def hide_dialog(self, widget):\n        self.hide()\n\n    def has_base():\n        return self.base\n",
-			"file": "serp/gui/Dialog.py",
-			"file_size": 764,
-			"file_write_time": 130685293542159880,
+			"file": "serp/main.py",
 			"settings":
 			{
-				"buffer_size": 772,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "serp/gui/MainWindow.py",
-			"settings":
-			{
-				"buffer_size": 589,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "serp/classes/Base.py",
-			"settings":
-			{
-				"buffer_size": 134,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "serp/__init__.py",
-			"settings":
-			{
-				"buffer_size": 109,
+				"buffer_size": 268,
 				"line_ending": "Unix"
 			}
 		}
@@ -392,31 +582,69 @@
 		"menu_visible": true,
 		"show_minimap": false,
 		"show_open_files": false,
-		"show_tabs": false,
+		"show_tabs": true,
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
 	"expanded_folders":
 	[
-		"/home/charly/Python/SERP",
-		"/home/charly/Python/SERP/serp",
-		"/home/charly/Python/SERP/serp/__pycache__"
+		"/home/charly/Python/SERP"
 	],
 	"file_history":
 	[
+		"/home/charly/.config/sublime-text-3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
 		"/home/charly/Python/SERP/serp.sublime-project",
-		"/home/charly/Python/SERP/serp.nja",
 		"/home/charly/Python/SERP/serp/classes/Base.py",
+		"/home/charly/Python/SERP/serp/main.py",
+		"/home/charly/.zshrc",
+		"/home/charly/.zsh_history",
+		"/home/charly/.zcompdump",
+		"/home/charly/.viminfo",
+		"/home/charly/.sqlplus_history",
+		"/home/charly/.profile",
+		"/home/charly/.npmrc",
+		"/home/charly/.mysql_history",
+		"/home/charly/.gitconfig",
+		"/home/charly/.dmrc",
+		"/home/charly/.dlockpid",
+		"/home/charly/.bashrc",
+		"/home/charly/.bash_profile",
+		"/home/charly/.bash_logout",
+		"/home/charly/Python/SERP/serp/classes/MainWindow.py",
+		"/home/charly/Templates/index.html",
+		"/home/charly/asdas.serp",
+		"/home/charly/Prueba.serp.serp",
+		"/home/charly/mlkml.serp",
+		"/home/charly/Python/SERP/serp/classes/MainFrame.py",
+		"/home/charly/Python/SERP/serp/gui/mainwindow.ui",
+		"/home/charly/Python/SERP/serp/classes/tmp.py",
+		"/home/charly/Python/SERP/serp/classes/DialogPreferences.py",
+		"/home/charly/Python/SERP/serp/classes/DialogNewBase.py",
+		"/home/charly/Python/SERP/serp/gui/form.ui",
+		"/home/charly/Python/SERP/.gitignore",
+		"/home/charly/Python/SERP/serp/gui/DialogNewBase.py",
+		"/home/charly/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/charly/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/charly/Python/SERP/serp/classes/mainwindow.py",
+		"/home/charly/Python/SERP/serp/gui/mainwindow.py",
+		"/home/charly/Python/SERP/serp/gui/Builder.py",
 		"/home/charly/Python/SERP/serp/gui/Handlers.py",
-		"/home/charly/Python/SERP/serp/__init__.py",
+		"/home/charly/Python/SERP/serp/gui/Dialog.py",
+		"/home/charly/Python/SERP/serp/gui/widget.py",
+		"/home/charly/Python/SERP/serp/gui/MainWindow.py",
+		"/home/charly/Python/SERP/serp/gui/main.py",
+		"/home/charly/Python/SERP/serp/gui/main.glade~",
 		"/home/charly/Python/SERP/serp/gui/main.glade",
+		"/home/charly/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/charly/Python/SERP/serp.nja",
+		"/home/charly/Python/SERP/serp/untitled.py",
+		"/home/charly/Python/SERP/serp/__init__.py",
+		"/home/charly/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/charly/Python/SERP/README.md",
 		"/home/charly/.config/sublime-text-3/Packages/User/mysql.sublime-build",
-		"/home/charly/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
 		"/home/charly/Python/SERP/serp/gui/DialogNewFile.py",
 		"/home/charly/Python/SERP/serp/gui/EntryMultiline.py",
 		"/home/charly/Python/SERP/serp/gui/MyWidget.py",
-		"/home/charly/Python/SERP/serp/gui/MainWindow.py",
 		"/home/charly/Python/SERP/serp/gui/NewWidget.py",
 		"/home/charly/Python/SERP/serp/Window.py",
 		"/home/charly/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
@@ -485,49 +713,13 @@
 		"/tmp/evince-3313/image.ZP3WTX.png",
 		"/home/charly/.cache/.fr-MxErSw/PhpDoc.sublime-completions",
 		"/home/charly/.cache/.fr-Z5Xte9/README.md",
-		"/home/charly/.zshrc",
-		"/home/charly/.bash_profile",
-		"/home/charly/.bashrc",
 		"/home/charly/.bash_aliases",
-		"/home/charly/.mysql_history",
 		"/home/charly/.pam_environment",
-		"/home/charly/.profile",
-		"/home/charly/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/i18n/data/en_ie.php",
 		"/home/charly/www/trackstar/vendor/yiisoft/yii/demos/blog/protected/components/UserMenu.php",
 		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/i18n/data/mer.php",
 		"/home/charly/www/trackstar/protected/config/main.php",
-		"/home/charly/.config/sublime-text-3/Packages/User/Yii snippets/yii-form-dropdownlist.sublime-snippet",
-		"/home/charly/.cache/.fr-sdHhiU/yii-dropDownList.sublime-snippet",
-		"/usr/lib/texturepacker/qt.conf",
-		"/home/charly/oradiag_charly/scripts/Sin título New file.sql",
-		"/home/charly/oradiag_charly/scripts/con01.txt",
-		"/home/charly/www/trackstar/protected/migrations/m150201_045004_create_project_table.php",
-		"/home/charly/.config/chmsee/config",
-		"/home/charly/.config/zone/config.ini",
-		"/home/charly/.config/touchegg/touchegg.conf",
-		"/home/charly/.config/hotkeys/synapse.hotkeys",
-		"/home/charly/www/trackstar/protected/config/database.php",
-		"/home/charly/Python/SERP/ex/__init__.spec",
-		"/home/charly/.config/sublime-text-3/Packages/AutoFileName/autofilename.sublime-settings",
-		"/home/charly/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
-		"/home/charly/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
-		"/home/charly/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
-		"/home/charly/www/trackstar/css/main.css",
-		"/home/charly/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-		"/home/charly/.config/sublime-text-3/Packages/User/composer-sublime.sublime-settings",
-		"/home/charly/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-		"/home/charly/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
-		"/home/charly/.config/sublime-text-3/Packages/Composer/composer-sublime.sublime-settings",
-		"/home/charly/.config/sublime-text-3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
-		"/home/charly/main.py",
-		"/home/charly/.config/sublime-text-3/Packages/User/trailing_spaces.sublime-settings",
-		"/home/charly/.config/sublime-text-3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
-		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/i18n/data/tt_ru.php",
-		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowTricky.txt",
-		"/home/charly/www/trackstar/vendor/yiisoft/yii/framework/gii/components/Pear/Text/Diff/Renderer/inline.php",
-		"/home/charly/www/trackstar/trackstar.sublime-project",
-		"/home/charly/www/info.php"
+		"/home/charly/.config/sublime-text-3/Packages/User/Yii snippets/yii-form-dropdownlist.sublime-snippet"
 	],
 	"find":
 	{
@@ -546,6 +738,34 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"_minimum_value",
+			"maximum_value",
+			"_maximum_value",
+			"minimum_value",
+			"maximun_value",
+			"limite_superior",
+			"limite_inferior",
+			"property",
+			"heterogeneos",
+			"QtGui,",
+			"grep",
+			"self",
+			"response",
+			"gui/",
+			"Gui",
+			"gui",
+			"icons",
+			"png",
+			"QtGui",
+			"f.d",
+			"f.name",
+			"name",
+			"descripcion",
+			"createNewBase",
+			"nombre",
+			"Ui_MainWindow",
+			"ex",
+			"on_destroy",
 			"on_new_base",
 			"dialog",
 			"self",
@@ -611,54 +831,143 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "serp/gui/Builder.py",
+					"file": "serp/app/core/objeto.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 499,
+						"buffer_size": 738,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								493,
-								493
+								253,
+								253
 							]
 						],
 						"settings":
 						{
-							"auto_name": "Builder.py",
+							"auto_name": "objetos.py",
+							"spell_check": false,
 							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": true
+							"wrap_width": 80
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "serp/gui/Handlers.py",
+					"file": "serp/app/core/variable.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 217,
+						"buffer_size": 2715,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								217,
-								217
+								2059,
+								2059
+							]
+						],
+						"settings":
+						{
+							"auto_name": "variable.py",
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 536.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/charly/Dropbox/RP/js/app/system/Variable.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/charly/Dropbox/RP/js/app/system/Objeto.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700,
+								700
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "serp/app/Base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								856,
+								856
 							]
 						],
 						"settings":
@@ -671,117 +980,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "serp/gui/Dialog.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 772,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								665,
-								665
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 8.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 3,
-					"file": "serp/gui/MainWindow.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 589,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								560,
-								560
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "serp/classes/Base.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 134,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								58,
-								58
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "serp/__init__.py",
-					"semi_transient": false,
+					"file": "serp/main.py",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 109,
+						"buffer_size": 268,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								87,
-								87
+								268,
+								268
 							]
 						],
 						"settings":
@@ -792,7 +1008,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -800,7 +1016,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 48.0
+		"height": 21.0
 	},
 	"input":
 	{
@@ -815,18 +1031,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -835,10 +1044,10 @@
 			1.0
 		]
 	},
-	"menu_visible": false,
+	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 157.0
+		"height": 151.0
 	},
 	"output.find_results":
 	{
@@ -856,8 +1065,48 @@
 		"selected_items":
 		[
 			[
+				"serp",
+				"serp.sublime-project"
+			],
+			[
+				"main",
+				"serp/classes/MainWindow.py"
+			],
+			[
+				"tmp",
+				"serp/classes/tmp.py"
+			],
+			[
+				"for",
+				"serp/gui/form.ui"
+			],
+			[
 				"ser",
 				"serp.sublime-project"
+			],
+			[
+				"wi",
+				"serp/gui/widget.py"
+			],
+			[
+				"dia",
+				"serp/gui/Dialog.py"
+			],
+			[
+				"di",
+				"serp/gui/Dialog.py"
+			],
+			[
+				"bas",
+				"serp/classes/Base.py"
+			],
+			[
+				"__",
+				"serp/__init__.py"
+			],
+			[
+				"ini",
+				"serp/__init__.py"
 			],
 			[
 				"han",
@@ -866,14 +1115,6 @@
 			[
 				"su",
 				"serp.sublime-project"
-			],
-			[
-				"ini",
-				"serp/__init__.py"
-			],
-			[
-				"dia",
-				"serp/gui/DialogNewBase.py"
 			],
 			[
 				"ha",
@@ -958,10 +1199,6 @@
 			[
 				"issue/",
 				"protected/views/issue/_form.php"
-			],
-			[
-				"main",
-				"protected/config/main.php"
 			]
 		],
 		"width": 0.0
@@ -986,15 +1223,15 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 183.0,
+	"side_bar_visible": false,
+	"side_bar_width": 209.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

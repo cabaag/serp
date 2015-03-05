@@ -11,7 +11,10 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>SERP</string>
+  </property>
+  <property name="locale">
+   <locale language="Spanish" country="Mexico"/>
   </property>
   <widget class="QWidget" name="centralwidget"/>
   <widget class="QMenuBar" name="menubar">
@@ -27,23 +30,48 @@
     <property name="title">
      <string>Archivo</string>
     </property>
-    <addaction name="actionNuevo"/>
-    <addaction name="actionAbrir"/>
-    <addaction name="actionAbrir_recientes"/>
+    <addaction name="actionNew"/>
+    <addaction name="actionOpen"/>
+    <addaction name="actionOpen_recents"/>
     <addaction name="separator"/>
-    <addaction name="actionGuardar"/>
-    <addaction name="actionExportar"/>
+    <addaction name="actionSave"/>
+    <addaction name="actionExport"/>
     <addaction name="separator"/>
-    <addaction name="actionGuardar_imagen"/>
+    <addaction name="actionSave_snapshot"/>
     <addaction name="separator"/>
-    <addaction name="actionCerrar"/>
+    <addaction name="actionClose"/>
     <addaction name="separator"/>
-    <addaction name="actionSalir"/>
+    <addaction name="actionQuit"/>
+   </widget>
+   <widget class="QMenu" name="menuEdit">
+    <property name="title">
+     <string>Editar</string>
+    </property>
+    <addaction name="actionPreferences"/>
+   </widget>
+   <widget class="QMenu" name="menuDatos">
+    <property name="title">
+     <string>Datos</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menuOperaciones">
+    <property name="title">
+     <string>Operaciones</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menuReconocimiento">
+    <property name="title">
+     <string>Reconocimiento</string>
+    </property>
    </widget>
    <addaction name="menuFile"/>
+   <addaction name="menuEdit"/>
+   <addaction name="menuDatos"/>
+   <addaction name="menuOperaciones"/>
+   <addaction name="menuReconocimiento"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
-  <action name="actionNuevo">
+  <action name="actionNew">
    <property name="icon">
     <iconset>
      <normaloff>icons/NewFile.png</normaloff>icons/NewFile.png</iconset>
@@ -55,53 +83,83 @@
     <string>Ctrl+N</string>
    </property>
   </action>
-  <action name="actionAbrir">
+  <action name="actionOpen">
+   <property name="icon">
+    <iconset>
+     <normaloff>icons/Open.png</normaloff>icons/Open.png</iconset>
+   </property>
    <property name="text">
     <string>Abrir</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+O</string>
+   </property>
   </action>
-  <action name="actionAbrir_recientes">
+  <action name="actionOpen_recents">
    <property name="text">
     <string>Abrir recientes...</string>
    </property>
   </action>
-  <action name="actionGuardar">
+  <action name="actionSave">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="text">
     <string>Guardar</string>
    </property>
-  </action>
-  <action name="actionGuardar_como">
-   <property name="text">
-    <string>Guardar como</string>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
    </property>
   </action>
-  <action name="actionExportar">
+  <action name="actionExport">
    <property name="text">
     <string>Exportar</string>
    </property>
   </action>
-  <action name="actionGuardar_imagen">
+  <action name="actionSave_snapshot">
    <property name="text">
     <string>Guardar imagen</string>
    </property>
   </action>
-  <action name="actionCerrar">
+  <action name="actionClose">
    <property name="text">
     <string>Cerrar</string>
    </property>
   </action>
-  <action name="actionSalir">
+  <action name="actionQuit">
    <property name="text">
     <string>Salir</string>
    </property>
    <property name="shortcut">
-    <string/>
+    <string>Ctrl+Q</string>
    </property>
    <property name="shortcutContext">
     <enum>Qt::WindowShortcut</enum>
    </property>
   </action>
+  <action name="actionPreferences">
+   <property name="text">
+    <string>Preferencias</string>
+   </property>
+  </action>
  </widget>
  <resources/>
- <connections/>
+ <connections>
+  <connection>
+   <sender>actionQuit</sender>
+   <signal>triggered()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>399</x>
+     <y>299</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
 </ui>
